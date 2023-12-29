@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eabad3421fc41e8",
+        "id": "faf77e29da9ed8a1",
         "type": "tabs",
         "children": [
           {
-            "id": "6d34af957bb494c4",
+            "id": "4ea33dd79c4005d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/C/C - Fast Introduction.md",
+                "file": "Languages/C/C-Fast-Introduction.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Keywords-and-Datatypes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/C/C - Fast Introduction.md",
+                "file": "Languages/C/C-Fast-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/C/C - Fast Introduction.md",
+                "file": "Languages/C/C-Fast-Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/C/C - Fast Introduction.md"
+                "file": "Languages/C/C-Fast-Introduction.md"
               }
             }
           }
@@ -147,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d34af957bb494c4",
+  "active": "4ea33dd79c4005d6",
   "lastOpenFiles": [
+    "Languages/README.md.md",
     "README.md",
-    "Languages/C/C - Fast Introduction.md",
+    "Languages/C/C-Fast-Introduction.md",
+    "2023-12-29.md",
     "Languages/C",
     "Languages"
   ]
