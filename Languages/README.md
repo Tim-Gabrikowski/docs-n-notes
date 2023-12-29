@@ -4,4 +4,4 @@
 Here are some Cheat Sheets and notes by me while learning some Programming languages. It may help you.
 
 ## Contents
-- [C](./c/C-Fast-Introduction.md)
+- [C](./C/C-Fast-Introduction.md)
