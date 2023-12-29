@@ -101,6 +101,16 @@ int main ()
 | ==  | Equals                 |
 | !=  | Not equals             |
 
+###  Bitwise Operators
+
+| Operator | Meaning |
+| :--: | :-- |
+| &  | And |
+| \| | Or  |
+| ~  | Not |
+| << | Left shift |
+| >> | Right shift |
+
 ###  Logical Operators
 
 | Operator | Meaning |
