@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"cee5f0ebab5b5360","x":8,"y":80,"width":250,"height":60,"type":"text","text":"\r\nStore song data and artists in a database\r\norganize Songs in playlists\r\nenter youtube playlist url to import playlist (WIP)#\r\ndirect stream audio from YouTube\r\nshare Songs with friends\r\ncache songs on Fileserver to reduce transcoding\r\n"},
+		{"id":"c1be71c83f90a66a","type":"file","file":"Projects/MusicServer/README.md","x":-680,"y":-460,"width":400,"height":340},
+		{"id":"babe38ce48f2ed7f","x":160,"y":80,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

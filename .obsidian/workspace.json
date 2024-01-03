@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "faf77e29da9ed8a1",
+        "id": "356e17e82466af38",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea33dd79c4005d6",
+            "id": "2a0769c68434271c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Languages/C/C-Fast-Introduction.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bb966ed2e4b0b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/c-Brainfuck.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "63eebf23d2f0592e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/C/C-Fast-Introduction.md",
+                "file": "Blog/c-Brainfuck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/C/C-Fast-Introduction.md",
+                "file": "Blog/c-Brainfuck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/C/C-Fast-Introduction.md"
+                "file": "Blog/c-Brainfuck.md"
               }
             }
           }
@@ -146,11 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ea33dd79c4005d6",
+  "active": "0bb966ed2e4b0b9a",
   "lastOpenFiles": [
-    "Languages/README.md.md",
-    "README.md",
     "Languages/C/C-Fast-Introduction.md",
+    "Blog/c-Brainfuck.md",
+    "Blog",
+    "README.md",
+    "Projects/Fileserver/README.md",
+    "Projects/Projects.canvas",
+    "Projects/MusicServer/README.md",
+    "Projects/Fileserver",
+    "Projects/MusicServer",
+    "Projects",
+    "Languages/README.md",
+    "Languages/README.md.md",
     "2023-12-29.md",
     "Languages/C",
     "Languages"
