@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66fcf9597833f710",
+            "id": "d075e32aed1ee10a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/c-Brainfuck.md",
+                "file": "Tasks/AbiVorbereitungInfo/Inf1-eA-A-2019.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/c-Brainfuck.md",
+                "file": "Tasks/AbiVorbereitungInfo/Inf1-eA-A-2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/c-Brainfuck.md",
+                "file": "Tasks/AbiVorbereitungInfo/Inf1-eA-A-2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/c-Brainfuck.md"
+                "file": "Tasks/AbiVorbereitungInfo/Inf1-eA-A-2019.md"
               }
             }
           }
@@ -154,10 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66fcf9597833f710",
+  "active": "d075e32aed1ee10a",
   "lastOpenFiles": [
-    "Languages/C/C-Fast-Introduction.md",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202210000.png",
+    "Tasks/AbiVorbereitungInfo",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202213523.png",
+    "Tasks/AbiVorbereitungInfo/images",
+    "Tasks/AbiVorbereitungInfo/Inf1-eA-A-2019.md",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202214225.png",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202213629.png",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202213620.png",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202210431.png",
+    "Tasks/AbiVorbereitungInfo/images/Pasted image 20240202210740.png",
     "Blog/c-Brainfuck.md",
+    "Tasks",
+    "Languages/C/C-Fast-Introduction.md",
     "Blog",
     "README.md",
     "Projects/Fileserver/README.md",
