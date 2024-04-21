@@ -121,7 +121,11 @@ public boolean frei (double sX) {
 	double l1 = gibLaenge();
 	double l2 = nF.gibLaenge();
 	double sMin = Zug.gibKupplungsAbstand();
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> 1693325 (vault backup: 2024-04-21 17:46:05)
 	double sMax = x2 - x1 - (l2/2) - (l1/2) - sMin;
 	return sX <= sMax;
 }

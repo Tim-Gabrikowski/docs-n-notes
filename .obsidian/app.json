@@ -5,5 +5,15 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets",
+  "showInlineTitle": false
 }

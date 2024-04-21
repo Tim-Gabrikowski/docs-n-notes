@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obuntu",
+  "interfaceFontFamily": "Consolas",
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Consolas",
+  "baseFontSize": 12,
+  "nativeMenus": false,
+  "translucency": true
 }
